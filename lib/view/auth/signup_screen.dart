@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:api_login_signup_app/main.dart';
+
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:api_login_signup_app/view/auth/login_screen.dart';
